@@ -3,7 +3,7 @@ import os
 
 WIDTH,HEIGHT = 900,500
 WIND = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption("Pygame !")
+pygame.display.set_caption("First Shooter")
 
 BORDER= pygame.Rect(WIDTH/2 - 5, 0, 10, HEIGHT)
 
